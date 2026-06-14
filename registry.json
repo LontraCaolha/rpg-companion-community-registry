@@ -1711,7 +1711,7 @@
     "repo_url": "https://britton54-commits.github.io/hombrewed-class-gliph-artist/",
     "has_system": false
   },
-    {
+  {
     "name": "Half-Orc-Dwarf",
     "description": "Hybrid character for homebrew",
     "tags": [
@@ -1750,6 +1750,17 @@
     "stars": 0,
     "github_repo": "ThatOneWeirdo92/Deltarune-Armors",
     "repo_url": "https://ThatOneWeirdo92.github.io/Deltarune-Armors/",
+    "has_system": false
+  },
+  {
+    "name": "Villanary-Path-Feats",
+    "description": "Death Knight Feat path and Lich feat path",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "LichBadgerKing/Villanary-Path-Feats",
+    "repo_url": "https://LichBadgerKing.github.io/Villanary-Path-Feats/",
     "has_system": false
   }
 ]
